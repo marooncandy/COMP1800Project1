@@ -25,6 +25,7 @@ They can also calculate their metabolism data.
 
 # Content:
 ```
+Top level of project folder:
 ├── .gitignore		# Git ignore file
 ├── index.html		# landing HTML file, this is what users see when they come to url
 ├── login.html		# login HTML file, contains logic for user authentication
