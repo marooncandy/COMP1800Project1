@@ -28,9 +28,9 @@ They can also calculate their metabolism data.
 ├── .gitignore		# Git ignore file
 ├── index.html		# landing HTML file, this is what users see when they come to url
 ├── login.html		# login HTML file, contains logic for user authentication
-├── main.html	  # after logged in, users can add food and see food history here
-├── account.html  # set up user profile
-├── metabolism.html		# set up metabolism data
+├── main.html	    # after logged in, users can add food and see food history here
+├── account.html    # set up user profile
+├── metabolism.html	# set up metabolism data
 ├── food.html		# main page of selecting food showing different food brands
 ├── timhortons.html	# Tim hortons page
 ├── donut.html		# donut page
@@ -40,7 +40,7 @@ They can also calculate their metabolism data.
 ├── README.md
 
 It has the following subfolders:
-├── images			# folder for images
-├── script			# folder for scripts
-├── style			# folder for styles
+├── images		# folder for images
+├── script		# folder for scripts
+├── style		# folder for styles
 ```
