@@ -26,21 +26,21 @@ They can also calculate their metabolism data.
 # Content:
 
 Top level of project folder:
-|-- .gitignore        # Git ignore file
-|-- index.html		    # landing HTML file, this is what users see when they come to url
-|-- login.html		    # login HTML file, contains logic for user authentication
-|-- main.html		      # after logged in, users can add food and see food history here
-|-- account.html		  # set up user profile
-|-- metabolism.html		# set up metabolism data
-|-- food.html		      # main page of selecting food showing different food brands
-|-- timhortons.html		# Tim hortons page
-|-- donut.html		    # donut page
-|-- selectedfood.html	# select food page enter or type amount of servings
-|-- mealcal.html		  # let user to choose add more food or done
-|-- daycal.html		    # show daily calorie intake with food added history table
-|-- README.md
+├── .gitignore        # Git ignore file
+├── index.html		    # landing HTML file, this is what users see when they come to url
+├── login.html		    # login HTML file, contains logic for user authentication
+├── main.html		      # after logged in, users can add food and see food history here
+├── account.html		  # set up user profile
+├── metabolism.html		# set up metabolism data
+├── food.html		      # main page of selecting food showing different food brands
+├── timhortons.html		# Tim hortons page
+├── donut.html		    # donut page
+├── selectedfood.html	# select food page enter or type amount of servings
+├── mealcal.html		  # let user to choose add more food or done
+├── daycal.html		    # show daily calorie intake with food added history table
+├── README.md
 
 It has the following subfolders:
-|-- images			      # folder for images
-|-- script			      # folder for scripts
-|-- style			        # folder for styles
+├── images			      # folder for images
+├── script			      # folder for scripts
+├── style			        # folder for styles
